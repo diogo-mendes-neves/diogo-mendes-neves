@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Instagram and LinkedIn
 - ⚡ Fun fact: I like to reading more than watching movies and series, and I'm more curious than usual (about everything)
 
-[![roadmap.sh](https://roadmap.sh/card/tall/68e05fc0399d9064911d1bfb?variant=dark&roadmaps=devops%2Cdocker%2Cterraform)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/68e05fc0399d9064911d1bfb?variant=dark&roadmaps=devops%2Cdocker%2Cterraform)](https://roadmap.sh)
