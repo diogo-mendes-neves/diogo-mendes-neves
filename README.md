@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I like to reading more than watching movies and series, and I'm more curious than usual (about everything)
 
 
-[https://diogo-mendes-neves.github.io/portifolio/](url)
+
 
 [![roadmap.sh](https://roadmap.sh/card/wide/68e05fc0399d9064911d1bfb?variant=dark&roadmaps=devops%2Cdocker%2Cterraform)](https://roadmap.sh)
 
