@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 
 
 [https://diogo-mendes-neves.github.io/portifolio/](url)
+
 [![roadmap.sh](https://roadmap.sh/card/wide/68e05fc0399d9064911d1bfb?variant=dark&roadmaps=devops%2Cdocker%2Cterraform)](https://roadmap.sh)
 
 [![DevOps Google Cloud - Progresso](https://img.shields.io/badge/Google%20Cloud%20DevOps-10%25%20conclu%C3%ADdo-blue)](https://www.cloudskillsboost.google/paths/20)
