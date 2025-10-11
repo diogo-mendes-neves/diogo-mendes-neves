@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 
 
 
-[![roadmap.sh](https://roadmap.sh/card/tall/68e05fc0399d9064911d1bfb?variant=dark)](https://roadmap.sh)
-
+[![roadmap.sh](https://roadmap.sh/card/tall/68e05fc0399d9064911d1bfb?variant=light)](https://roadmap.sh)
 
 [![DevOps Google Cloud - Progresso](https://img.shields.io/badge/Google%20Cloud%20DevOps-10%25%20conclu%C3%ADdo-blue)](https://www.cloudskillsboost.google/paths/20)
