@@ -13,9 +13,12 @@ Here are some ideas to get you started:
 
 [![roadmap.sh](https://roadmap.sh/card/wide/68e05fc0399d9064911d1bfb?variant=dark&roadmaps=)](https://roadmap.sh)
 
-[![DevOps Google Cloud - Progresso](https://img.shields.io/badge/Google%20Cloud%20DevOps-10%25%20conclu%C3%ADdo-blue)](https://www.cloudskillsboost.google/paths/20)
-
 Perfis de Estudos e Certificados:
-[Google Skills](https://www.skills.google/public_profiles/ab0b5e96-2e96-4f19-8161-4da5a721e955)
 
-[roadmap.sh](https://roadmap.sh/u/diogomendesneves)
+- [Google Skills](https://www.skills.google/public_profiles/ab0b5e96-2e96-4f19-8161-4da5a721e955)
+
+- [AWS SkillBuilder](https://skillsprofile.skillbuilder.aws/user/diogo-mendes-neves)
+
+- [Microsoft Learn](https://learn.microsoft.com/pt-br/users/diogomendesneves-9530/transcript/dlmgfe8oy2x3k9v?tab=tab-started)
+
+- [roadmap.sh](https://roadmap.sh/u/diogomendesneves)
