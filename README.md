@@ -18,3 +18,7 @@ Perfis de Estudos e Certificados:
 - [Microsoft Learn](https://learn.microsoft.com/pt-br/users/diogomendesneves-9530/transcript/dlmgfe8oy2x3k9v?tab=tab-started)
 
 - [roadmap.sh](https://roadmap.sh/u/diogomendesneves)
+
+#Bagdes
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="125c18aa-6f4f-4ecb-9619-962ea521ff2f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
