@@ -19,5 +19,5 @@ Perfis de Estudos e Certificados:
 
 - [roadmap.sh](https://roadmap.sh/u/diogomendesneves)
 
-#Bagdes
-
+##Bagdes
+[![Linux Foundation](https://img.shields.io/badge/Linux_Foundation-Certified-blue?logo=linux&logoColor=white)](https://www.credly.com/badges/125c18aa-6f4f-4ecb-9619-962ea521ff2f/public_url)
