@@ -20,4 +20,7 @@ Perfis de Estudos e Certificados:
 - [roadmap.sh](https://roadmap.sh/u/diogomendesneves)
 
 **Badges e Certificações**
-[![Linux Foundation](https://img.shields.io/badge/Linux_Foundation-Certified-blue?logo=linux&logoColor=white)](https://www.credly.com/badges/125c18aa-6f4f-4ecb-9619-962ea521ff2f/public_url)
+
+<a href="https://www.credly.com/badges/125c18aa-6f4f-4ecb-9619-962ea521ff2f/public_url" target="_blank">
+   <img src="https://images.credly.com/size/150x150/images/63376288-7565-4f76-9214-72276536093d/Linux_Foundation_Certified_IT_Associate.png" width="150" height="150" alt="Linux Foundation Badge">
+</a>
