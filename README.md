@@ -21,4 +21,4 @@ Perfis de Estudos e Certificados:
 
 **Badges e Certificações**
 
-[![Linux Foundation Badge](https://images.credly.com/size/340x340/images/63376288-7565-4f76-9214-72276536093d/Linux_Foundation_Certified_IT_Associate.png)](https://www.credly.com/badges/125c18aa-6f4f-4ecb-9619-962ea521ff2f/public_url)
+[![Linux Foundation - LFS162: Introduction to DevOps and Site Reliability Engineering](https://images.credly.com/size/340x340/images/63376288-7565-4f76-9214-72276536093d/Linux_Foundation_Certified_IT_Associate.png)](https://www.credly.com/badges/125c18aa-6f4f-4ecb-9619-962ea521ff2f/public_url)
