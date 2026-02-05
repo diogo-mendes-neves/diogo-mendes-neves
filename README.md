@@ -22,3 +22,4 @@ Perfis de Estudos e Certificados:
 **Badges e Certificações**
 
 [![Linux Foundation - LFS162: Introduction to DevOps and Site Reliability Engineering](https://images.credly.com/size/340x340/images/63376288-7565-4f76-9214-72276536093d/Linux_Foundation_Certified_IT_Associate.png)](https://www.credly.com/badges/125c18aa-6f4f-4ecb-9619-962ea521ff2f/public_url)
+<img width="2048" height="2048" alt="lfs162-introduction-to-devops-and-site-reliability-" src="https://github.com/user-attachments/assets/35c10587-4393-480e-8a8a-29aa918ead5b" />
